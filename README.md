@@ -27,7 +27,7 @@ Python
 Jupyter Notebook
 Pandas, NumPy for data processing
 Matplotlib, Seaborn for visualizations
-SQL (if used for preprocessing or exploration)
+
 
 📎Dataset
 
@@ -36,10 +36,15 @@ The dataset for this project was sourced from Kaggle: [https://www.kaggle.com/]
 📊 Analysis Steps (in Notebook)
 
 Data Loading & Inspection – Load the Kaggle subscription dataset and explore its structure (missing values, datatypes).
+
 Data Cleaning – Handle missing or inconsistent data points.
+
 Exploratory Data Analysis (EDA) – Examine churn distribution and relevant customer features.
+
 Feature Analysis – Compare churn vs non‑churn groups across key variables.
+
 Visualizations – Plots showing churn trends (like churn by tenure, subscription type, usage patterns).
+
 Insights Extraction – Identify significant drivers of churn and customer segments at risk.
 
 📌 Key Insights
